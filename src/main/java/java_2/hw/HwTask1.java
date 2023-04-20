@@ -1,6 +1,6 @@
 package java_2.hw;
 
-public class Task1 {
+public class HwTask1 {
     public static void main(String[] args) {
 
         byte tByte = 4;
