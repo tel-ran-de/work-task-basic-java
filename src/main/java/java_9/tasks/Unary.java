@@ -1,4 +1,4 @@
-package java_9;
+package java_9.tasks;
 
 public class Unary {
     public static void main(String[] args) {
