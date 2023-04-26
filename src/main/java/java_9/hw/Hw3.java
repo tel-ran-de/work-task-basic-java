@@ -2,7 +2,7 @@ package java_9.hw;
 
 import java.util.Random;
 
-public class Desk {
+public class Hw3 {
     public static void main(String[] args) {
         Random rnd = new Random();
         int a = rnd.nextInt(28800), b = a / 60 / 60;
